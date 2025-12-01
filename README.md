@@ -254,5 +254,3 @@ GitHub: [@RafaelBSberse](https://github.com/RafaelBSberse)
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a star!**
-#   s t a r w a r s - 3 d - p h o n g - i l l u m i n a t i o n  
- 
